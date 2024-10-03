@@ -1,6 +1,3 @@
-# eds220-2024-sections
-Work during discussion classes for EDS 220 - Working with Environmental Dataset -  MEDS Course
-
 # EDS 220 Discussion Sections Repository
 
 This repository hosts all the work completed by [Nicole Pepper] during the discussion sections of EDS 220 - *Working with Environmental Datasets*.
